@@ -1,5 +1,5 @@
 name: app_float_button
-description: "A Flutter package providing reusable floating icon buttons and selectable icons with customizable appearance and interaction."
+description: "A Flutter package that provides customizable floating action buttons and animated speed dial menus for quick access to multiple actions."
 version: 0.0.1
 homepage: https://github.com/GenieCoderSrc/app_float_button
 repository: https://github.com/GenieCoderSrc/app_float_button

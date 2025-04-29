@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:widgets/icon/app_icon.dart';
 
 class SpeedDial extends StatefulWidget {
   const SpeedDial({
@@ -152,7 +151,7 @@ class _SpeedDialState extends State<SpeedDial>
         Padding(
           padding: const EdgeInsets.only(top: 8.0),
           child: IconButton(
-            icon: AppIcon(
+            icon: Icon(
               _animationController.isDismissed
                   ? widget.onCloseIcon ?? Icons.call
                   : widget.onCloseIcon ?? Icons.cancel,

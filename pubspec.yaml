@@ -1,7 +1,10 @@
 name: app_float_button
-description: "A new Flutter package project."
+description: "A Flutter package providing reusable floating icon buttons and selectable icons with customizable appearance and interaction."
 version: 0.0.1
-homepage:
+homepage: https://github.com/GenieCoderSrc/app_float_button
+repository: https://github.com/GenieCoderSrc/app_float_button
+issue_tracker: https://github.com/GenieCoderSrc/app_float_button/issues
+
 
 
 
@@ -12,8 +15,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  reusable_icon:
-    path: ../reusable_icon
+
 
 dev_dependencies:
   flutter_test:
@@ -26,6 +28,8 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 flutter:
 
+example:
+  path: example
   # To add assets to your package, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg

@@ -18,15 +18,15 @@ class AppFloatingActionBtn extends StatelessWidget {
   Widget build(BuildContext context) {
     return label.isEmpty
         ? FloatingActionButton(
-          heroTag: tag,
-          onPressed: onPressed,
-          child: Icon(icon),
-        )
+            heroTag: tag,
+            onPressed: onPressed,
+            child: Icon(icon),
+          )
         : FloatingActionButton.extended(
-          heroTag: tag,
-          onPressed: onPressed,
-          label: Text(label),
-          icon: Icon(icon),
-        );
+            heroTag: tag,
+            onPressed: onPressed,
+            label: Text(label),
+            icon: Icon(icon),
+          );
   }
 }

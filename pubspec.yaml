@@ -1,16 +1,15 @@
 name: app_float_button
 description: "A Flutter package that provides customizable floating action buttons and animated speed dial menus for quick access to multiple actions."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/GenieCoderSrc/app_float_button
 repository: https://github.com/GenieCoderSrc/app_float_button
 issue_tracker: https://github.com/GenieCoderSrc/app_float_button/issues
 
 
 
-
 environment:
-  sdk: ^3.8.1
-  flutter: ">=1.17.0"
+  sdk: ^3.9.0
+  flutter: ">=3.0.0"
 
 dependencies:
   flutter:
@@ -20,7 +19,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^6.0.0
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

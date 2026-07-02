@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## 0.0.3
+
+### Jun 22, 2026
+
+### ✨ Removed
+
+- Moved the `SpeedDial` Widget to the `reusable_speed_dial` pub package.
+
 ## 0.0.2
 
 ### Aug 22, 2025

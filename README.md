@@ -11,6 +11,8 @@ A Flutter package providing enhanced floating action buttons and speed dial menu
 Add the package to your `pubspec.yaml`:
 
 ```yaml
+resolution: workspace
+
 dependencies:
   app_float_button: <latest_version>
 ```
